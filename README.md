@@ -1,2 +1,2 @@
-# germancito_php_1
+# portal-escolar
 1er trabajo de germancito php github
