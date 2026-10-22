@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <?php include 'menu.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>tablas</title>
+    <link rel="stylesheet" href="estilos.css" type="text/css">
 </head>
 <body>
     <h1>¡Tabla de multiplicar del 1 al 10!</h1>
